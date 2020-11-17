@@ -1,1 +1,1 @@
-# Medication-reminder
+Medication Reminder with Medicine Dispenser project is based on providing the medication to the geriatrics. The scanning of prescription is provided using the picamera and based on the medication the medicines are dispensed from the dispenser. Module Used - Raspberry pi.
